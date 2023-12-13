@@ -6,9 +6,7 @@ body{
   text-align:center 
 }
 h1{
-  font-family: 'Aleo', serif;
   font-family: 'Josefin Sans', sans-serif;
-  font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
   letter-spacing: 1.2em;
   text-shadow: 5px 2px 3px lightgrey;
